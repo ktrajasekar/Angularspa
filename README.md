@@ -29,3 +29,18 @@ sudo gem install compass
 ### Router URL Prefix "2f" / added in yeoman
 
 https://github.com/yeoman/generator-angular/issues/1380
+
+## Generate new route in yeomen 
+```
+-----------------------------
+yo angular:route directives
+------------------------------
+angular:app
+angular:controller
+angular:directive
+angular:filter
+angular:route
+angular:service
+angular:view
+```
+
