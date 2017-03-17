@@ -9,3 +9,7 @@ Single Page Application Slate using Angularjs 1.5
 > cd projectdir
 
 > http-server -o
+
+## AngularJS setup using 
+
+https://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
