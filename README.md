@@ -2,7 +2,7 @@
 
 Single Page Application Slate using Angularjs 1.5
 
-## Run Angular app locally. 
+## Run Angular app local
 
 > npm install -g http-server
 
