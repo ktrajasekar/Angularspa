@@ -26,6 +26,6 @@ sudo update_rubygems
 sudo gem install compass
 ```
 
-### Router URL Prefix "2f" / added 
+### Router URL Prefix "2f" / added in yeoman
 
 https://github.com/yeoman/generator-angular/issues/1380
