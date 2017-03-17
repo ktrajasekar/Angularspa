@@ -3,13 +3,29 @@
 Single Page Application Slate using Angularjs 1.5
 
 ## Run Angular app local
-
-> npm install -g http-server
-
-> cd projectdir
-
-> http-server -o
+```
+npm install -g http-server
+cd projectdir
+http-server -o
+```
 
 ## AngularJS setup using yoeman
 
 https://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
+```
+npm install -g yo grunt-cli bower
+npm install -g generator-angular
+yo angular
+bower install angular-bootstrap --save
+```
+### Issue on Linux when installing compass. 
+```
+sudo apt-get install rubygems1.8
+sudo gem install rubygems-update
+sudo update_rubygems
+sudo gem install compass
+```
+
+### Router URL Prefix "2f" / added 
+
+https://github.com/yeoman/generator-angular/issues/1380
