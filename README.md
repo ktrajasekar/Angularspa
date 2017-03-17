@@ -10,6 +10,6 @@ Single Page Application Slate using Angularjs 1.5
 
 > http-server -o
 
-## AngularJS setup using 
+## AngularJS setup using yoeman
 
 https://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
