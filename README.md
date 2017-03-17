@@ -30,7 +30,7 @@ sudo gem install compass
 
 https://github.com/yeoman/generator-angular/issues/1380
 
-## Generate new route in yeomen 
+## Generate routes, controller, views, in yeomen cli 
 ```
 -----------------------------
 yo angular:route directives
