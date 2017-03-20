@@ -43,4 +43,7 @@ angular:route
 angular:service
 angular:view
 ```
+AngularJS 2
+
+https://github.com/angular/angular-cli
 
