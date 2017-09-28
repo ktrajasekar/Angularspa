@@ -19,12 +19,6 @@ applicationSpa.config(function($routeProvider) {
     });
 });
 
-    // create the controller and inject Angular's $scope
-    applicationSpa.controller('MainController', function($scope) { 
-        // create a message to display in our view
-        $scope.message = 'Welcome to home page';
-    });
-
  // create the controller and inject Angular's $scope
     applicationSpa.controller('aboutController', function($scope) { 
         // create a message to display in our view
