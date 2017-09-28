@@ -2,6 +2,10 @@
     applicationSpa.controller('MainController', function($scope, serviceReturn, serviceReturnservi) { 
         // create a message to display in our view
         $scope.message = 'Welcome to home page';
+        serviceReturn.servicefun();
+        serviceReturn.functionfact(2,3);
+        serviceReturnservi.helloTest();
+        serviceReturnservi.woreld(true);
     });
 
     //factory
